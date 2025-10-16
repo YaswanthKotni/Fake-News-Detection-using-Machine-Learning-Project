@@ -1,14 +1,20 @@
 Fake News Detection
 
+
 This project aims to build a machine learning model to detect fake news. The dataset used contains news articles with labels indicating whether they are real or fake.
 
 Dataset
 
+
 The dataset contains the following columns:
 
+
 id: unique id for a news article
+
 title: the title of a news article
+
 author: author of the news article
+
 text: the text of the article; could be incomplete
 label: a label that marks whether the news article is real or fake (1: Fake news, 0: Real News)
 Data Preprocessing
